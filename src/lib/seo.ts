@@ -1,5 +1,5 @@
 export const seo = {
-  metadataBase: new URL("https://decimomartin.vercel.app"),
+  metadataBase: new URL("https://binspire-web.vercel.app/"),
   title: {
     default: "Binspire — A Pathway to Environmental Sustainability.",
     template: "Binspire — A Pathway to Environmental Sustainability.",
@@ -8,7 +8,7 @@ export const seo = {
   openGraph: {
     title: "Binspire",
     description: "A Pathway to Environmental Sustainability",
-    url: "https://decimomartin.vercel.app",
+    url: "https://binspire-web.vercel.app/",
     siteName: "Binspire",
     locale: "en_US",
     type: "website",
